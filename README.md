@@ -2,7 +2,7 @@
 20/10/2019
 
 ### Project Title
-Udacity Programming for Data Science NanoDegree Program - Project 3
+Udacity Programming for Data Science NanoDegree Program - Post Your Work on GitHub
 
 ### Description
 Using local repository and GitHub repository to work with files , stage and commit them to GitHub.
