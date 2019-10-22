@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+20/10/2019
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science NanoDegree Program - Project 3
 
 ### Description
-Describe what your project is about and what it does
+Using local repository and GitHub repository to work with files , stage and commit them to GitHub.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+1-Forked pdsnd_github from udacity/pdsnd_github
+2-bikeshare.py
+3-new_york_city.csv
+4-washington.csv
+5-chicago.csv
