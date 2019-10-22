@@ -42,7 +42,7 @@ def get_filters():
         else:
             print('Invalid input')
 
-    #df.head()
+    
     print('-'*40)
     return city, month, day
 
