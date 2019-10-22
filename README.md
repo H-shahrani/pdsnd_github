@@ -10,6 +10,3 @@ Using local repository and GitHub repository to work with files , stage and comm
 ### Files used
 1-Forked pdsnd_github from udacity/pdsnd_github
 2-bikeshare.py
-3-new_york_city.csv
-4-washington.csv
-5-chicago.csv
